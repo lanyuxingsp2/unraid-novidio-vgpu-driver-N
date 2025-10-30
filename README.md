@@ -1,4 +1,7 @@
 # Unraid Nvidia vGPU Driver plugin
+# NO LONGER MERGED DRIVER!!!!
+
+As of 6.12.54 we are no longer using the merged driver. This means the driver will not work on docker containers in Unraid. The driver will only support vGPU usage in a virtual machine.
 
 - Latest version currently supported: Check releases tab
 
